@@ -174,7 +174,7 @@ This project uses **Expo** because it provides:
 
 ## 📄 License
 
-This project is for educational purposes as part of a Master's degree course.
+See the [LICENSE](LICENSE) file for details.
 
 ## 🙏 Acknowledgments
 
