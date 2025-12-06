@@ -1,4 +1,4 @@
-# DatingApp
+# Dating App
 
 A React Native dating application built with **Expo** during the Mobile Software Development (CS325) course at MedTech. This app features user profiles, matchmaking capabilities, and a modern mobile interface with dark mode support.
 
